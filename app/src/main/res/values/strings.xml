@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pantallas</string>
+    <string name="fecha_nacimiento">Fecha de Nacimiento</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="telefono">Teléfono</string>
+    <string name="descripcion">Descripción</string>
+    <string name="email">Email</string>
+    <string name="boton_siguiente">Siguiente</string>
+</resources>
